@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"hi-i'm-bob",
+			"bob",
+			[
+				106,
+				93,
+				253
+			]
+		],
+		[
+			"fuzzy-friend",
+			"underswaptemmie",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"no-more-loneliness",
+			"underswaptemmie",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
