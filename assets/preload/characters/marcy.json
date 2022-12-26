@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Marcy Idle"
+		},
+		{
+			"offsets": [
+				48,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Marcy Left"
+		},
+		{
+			"offsets": [
+				74,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Marcy Right"
+		},
+		{
+			"offsets": [
+				25,
+				-81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Marcy Down"
+		},
+		{
+			"offsets": [
+				72,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Marcy Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				18
+			],
+			"anim": "fall",
+			"fps": 24,
+			"name": "fall",
+			"indices": []
+		},
+		{
+			"offsets": [
+				52,
+				18
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "fall-loop",
+			"indices": [
+				20,
+				21
+			],
+			"name": "fall"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/marcy",
+	"position": [
+		100,
+		340
+	],
+	"healthicon": "marcy",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		153,
+		102
+	],
+	"camera_position": [
+		150,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-168,
+				-214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Anne Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-324
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Anne Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-133
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Anne Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-100,
+				-210
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Anne Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-212
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Anne Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				14,
+				-195
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Anne Left",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-194,
+				-191
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Anne Right",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-70,
+				-404
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Anne Down",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-74,
+				-65
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Anne Up",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/anne",
+	"position": [
+		40,
+		-450
+	],
+	"healthicon": "anne",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		96,
+		154
+	],
+	"camera_position": [
+		350,
+		420
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

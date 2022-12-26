@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle amity RTX",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "amity up RTX",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-84
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "amity down RTX",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "amity left RTX",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "amity right RTX",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Amity",
+	"position": [
+		-370,
+		-160
+	],
+	"healthicon": "lumity",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		159,
+		126
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
