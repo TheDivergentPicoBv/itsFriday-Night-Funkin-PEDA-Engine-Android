@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hooty_GF_Assets_RTX.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Idle Dance RTX0000" x="5" y="5" width="671" height="618" frameX="0" frameY="-2" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0001" x="5" y="5" width="671" height="618" frameX="0" frameY="-2" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0002" x="681" y="5" width="666" height="619" frameX="-3" frameY="-1" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0003" x="1352" y="5" width="666" height="619" frameX="-3" frameY="-1" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0004" x="2023" y="5" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0005" x="2691" y="5" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0006" x="3359" y="5" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0007" x="5" y="630" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0008" x="673" y="630" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0009" x="673" y="630" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0010" x="1341" y="630" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0011" x="1341" y="630" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0012" x="1341" y="630" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0013" x="2009" y="630" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0014" x="2009" y="630" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0015" x="2677" y="630" width="669" height="618" frameX="0" frameY="-2" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0016" x="2677" y="630" width="669" height="618" frameX="0" frameY="-2" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0017" x="3351" y="630" width="666" height="619" frameX="-3" frameY="-1" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0018" x="5" y="1255" width="666" height="619" frameX="-3" frameY="-1" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0019" x="676" y="1255" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0020" x="1344" y="1255" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0021" x="2012" y="1255" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0022" x="2680" y="1255" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0023" x="3348" y="1255" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0024" x="3348" y="1255" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0025" x="5" y="1880" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0026" x="5" y="1880" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0027" x="5" y="1880" width="663" height="620" frameX="-6" frameY="0" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0028" x="673" y="1880" width="671" height="618" frameX="0" frameY="-2" frameWidth="671" frameHeight="620"/>
+	<SubTexture name="GF Idle Dance RTX0029" x="673" y="1880" width="671" height="618" frameX="0" frameY="-2" frameWidth="671" frameHeight="620"/>
+</TextureAtlas>
