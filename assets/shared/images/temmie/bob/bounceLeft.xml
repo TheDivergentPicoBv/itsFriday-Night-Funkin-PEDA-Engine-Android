@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bounceLeft.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bounce20000" x="0" y="0" width="446" height="472" frameX="0" frameY="-13" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20001" x="0" y="0" width="446" height="472" frameX="0" frameY="-13" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20002" x="446" y="0" width="438" height="478" frameX="-4" frameY="-7" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20003" x="446" y="0" width="438" height="478" frameX="-4" frameY="-7" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20004" x="0" y="478" width="436" height="484" frameX="-5" frameY="-1" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20005" x="0" y="478" width="436" height="484" frameX="-5" frameY="-1" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20006" x="0" y="478" width="436" height="484" frameX="-5" frameY="-1" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20007" x="436" y="478" width="436" height="485" frameX="-5" frameY="0" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20008" x="436" y="478" width="436" height="485" frameX="-5" frameY="0" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20009" x="436" y="478" width="436" height="485" frameX="-5" frameY="0" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20010" x="436" y="478" width="436" height="485" frameX="-5" frameY="0" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20011" x="436" y="478" width="436" height="485" frameX="-5" frameY="0" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20012" x="436" y="478" width="436" height="485" frameX="-5" frameY="0" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="bounce20013" x="436" y="478" width="436" height="485" frameX="-5" frameY="0" frameWidth="446" frameHeight="485"/>
+</TextureAtlas>
