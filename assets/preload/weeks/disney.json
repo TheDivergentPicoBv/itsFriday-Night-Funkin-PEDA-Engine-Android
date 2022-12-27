@@ -1,0 +1,76 @@
+{
+	"storyName": "multiverse mayhen",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"counterstrike",
+			"anne",
+			[
+				0,
+				160,
+				253
+			]
+		],
+		[
+			"mar-mar-mania",
+			"marcy",
+			[
+				106,
+				255,
+				173
+			]
+		],
+		[
+			"sparkles",
+			"lumity",
+			[
+				255,
+				40,
+				173
+			]
+		],
+		[
+			"power-couple",
+			"lumity",
+			[
+				255,
+				40,
+				173
+			]
+		],
+		[
+			"wonderdream",
+			"billn",
+			[
+				206,
+				233,
+				0
+			]
+		],
+		[
+			"weirdcore-calamity",
+			"bill",
+			[
+				255,
+				40,
+				53
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}
