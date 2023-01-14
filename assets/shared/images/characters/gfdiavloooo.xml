@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfdiavloooo.png">
+<SubTexture name="left dance0000" x="2658" y="0" width="531" height="663" frameX="-24" frameY="-26" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0001" x="2658" y="0" width="531" height="663" frameX="-24" frameY="-26" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0002" x="2658" y="663" width="531" height="663" frameX="-24" frameY="-26" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0003" x="2128" y="668" width="530" height="664" frameX="-28" frameY="-25" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0004" x="2128" y="1332" width="530" height="664" frameX="-28" frameY="-25" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0005" x="534" y="1360" width="535" height="676" frameX="-29" frameY="-13" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0006" x="534" y="1360" width="535" height="676" frameX="-29" frameY="-13" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0007" x="0" y="1360" width="534" height="677" frameX="-35" frameY="-12" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0008" x="533" y="680" width="533" height="678" frameX="-40" frameY="-11" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0009" x="1595" y="0" width="533" height="678" frameX="-40" frameY="-11" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0010" x="1595" y="0" width="533" height="678" frameX="-40" frameY="-11" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0011" x="1595" y="0" width="533" height="678" frameX="-40" frameY="-11" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0012" x="0" y="0" width="533" height="680" frameX="-40" frameY="-9" frameWidth="587" frameHeight="694" />
+<SubTexture name="left dance0013" x="0" y="0" width="533" height="680" frameX="-40" frameY="-9" frameWidth="587" frameHeight="694" />
+<SubTexture name="right dance0000" x="2128" y="0" width="530" height="668" frameX="-49" frameY="-38" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0001" x="2128" y="0" width="530" height="668" frameX="-49" frameY="-38" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0002" x="1069" y="1360" width="538" height="670" frameX="-43" frameY="-34" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0003" x="1069" y="1360" width="538" height="670" frameX="-43" frameY="-34" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0004" x="533" y="0" width="532" height="680" frameX="-26" frameY="-26" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0005" x="533" y="0" width="532" height="680" frameX="-26" frameY="-26" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0006" x="1065" y="0" width="530" height="680" frameX="-21" frameY="-26" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0007" x="0" y="680" width="533" height="680" frameX="-12" frameY="-26" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0008" x="0" y="0" width="533" height="680" frameX="-12" frameY="-26" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0009" x="0" y="0" width="533" height="680" frameX="-12" frameY="-26" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0010" x="0" y="0" width="533" height="680" frameX="-12" frameY="-26" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0011" x="0" y="0" width="533" height="680" frameX="-12" frameY="-26" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0012" x="1595" y="678" width="533" height="678" frameX="-8" frameY="-28" frameWidth="616" frameHeight="711" />
+<SubTexture name="right dance0013" x="1595" y="678" width="533" height="678" frameX="-8" frameY="-28" frameWidth="616" frameHeight="711" />
+</TextureAtlas>
